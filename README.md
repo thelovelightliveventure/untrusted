@@ -59,5 +59,32 @@ Solutions and hints for Untrusted - a user javascript adventure game
 <details>
   <summary>Click to reveal</summary>
   Comment out the code using ```/*``` and ```*/```.
+</details></details>
+
+<details><summary>  
+03-validationEngaged
+  </summary>
+
+### Hint 1
+<details>
+  <summary>Click to reveal</summary>
+  Try deleting one of the for-loops. What error message do you get?
 </details>
+
+### Hint 2
+<details>
+  <summary>Click to reveal</summary>
+  If a required amount of blocks are required to be there, what can you do?
 </details>
+
+### Hint 3
+<details>
+  <summary>Click to reveal</summary>
+  How can you move one of the boundaries somewhere else, keeping the same number of blocks?
+</details>
+
+### Solution
+<details>
+  <summary>Click to reveal</summary>
+  Replace the ```10``` in the ```x``` for-loop with ```0```, moving the top boundary to the top of the screen. 
+</details></details>
