@@ -88,3 +88,31 @@ Solutions and hints for Untrusted - a user javascript adventure game
   <summary>Click to reveal</summary>
   Replace the <code>10</code> in the <code>x</code> for-loop with <code>0</code>, moving the top boundary to the top of the screen. 
 </details></details>
+
+<details><summary>  
+04-multiplicity
+  </summary>
+
+### Hint 1
+<details>
+  <summary>Click to reveal</summary>
+  Once again, the description gives us a hint: "Level filenames can be a hint, by the way." This filename is <code>multiplicity</code>.
+</details>
+
+### Hint 2
+<details>
+  <summary>Click to reveal</summary>
+  <code>Multiplicity</code> means to duplicate, or to make clones, of something. What can you duplicate in this case?
+</details>
+
+### Hint 3
+<details>
+  <summary>Click to reveal</summary>
+  You can't move out of the box. But what can you move into the box?
+</details>
+
+### Solution
+<details>
+  <summary>Click to reveal</summary>
+  In the editable zone, place an object called "exit". There, you've just placed an exit within reach! 
+</details></details>
