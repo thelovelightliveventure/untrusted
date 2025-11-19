@@ -116,3 +116,36 @@ Solutions and hints for Untrusted - a user javascript adventure game
   <summary>Click to reveal</summary>
   In the editable zone, place an object called "exit". There, you've just placed an exit within reach! 
 </details></details>
+<details><summary>  
+    05-minesweeper
+  </summary>
+
+### Hint 1
+<details>
+  <summary>Click to reveal</summary>
+  Look carefully at the closing brackets right after the editable zone. Which loop are you editing in?
+</details>
+
+### Hint 2
+<details>
+  <summary>Click to reveal</summary>
+  The description once again gives a clue: "If only there was some way you could track the positions of the mines..."
+</details>
+
+### Hint 3
+<details>
+  <summary>Click to reveal</summary>
+  How can you change the color of squares? Look at preceding code.
+</details>
+
+### Hint 4
+<details>
+  <summary>Click to reveal</summary>
+  You're editing in the if-loop that defines where mines are placed. 
+</details>
+
+### Solution
+<details>
+  <summary>Click to reveal</summary>
+  Insert this line: <code>map.setSquareColor(x, y, '#fff');</code> to change the color of all mineblocks.
+</details></details>
