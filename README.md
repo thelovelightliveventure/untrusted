@@ -58,7 +58,7 @@ Solutions and hints for Untrusted - a user javascript adventure game
 ### Solution
 <details>
   <summary>Click to reveal</summary>
-  Comment out the code using ```/*``` and ```*/```.
+  Comment out the code using <code>/*</code> and <code>*/</code>.
 </details></details>
 
 <details><summary>  
@@ -86,5 +86,5 @@ Solutions and hints for Untrusted - a user javascript adventure game
 ### Solution
 <details>
   <summary>Click to reveal</summary>
-  Replace the ```10``` in the ```x``` for-loop with ```0```, moving the top boundary to the top of the screen. 
+  Replace the <code>10</code> in the <code>x</code> for-loop with <code>0</code>, moving the top boundary to the top of the screen. 
 </details></details>
