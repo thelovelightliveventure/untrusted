@@ -149,3 +149,12 @@ Solutions and hints for Untrusted - a user javascript adventure game
   <summary>Click to reveal</summary>
   Insert this line: <code>map.setSquareColor(x, y, '#fff');</code> to change the color of all mineblocks.
 </details></details>
+<details><summary>  
+    08-intoTheWoods
+  </summary>
+
+### Solution
+<details>
+  <summary>Click to reveal</summary>
+  Call function <code>generateForest</code> and keep calling and advancing until you get to the exit.
+</details></details>
