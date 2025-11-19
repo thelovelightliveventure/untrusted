@@ -1,8 +1,7 @@
 # untrusted
 Solutions and hints for Untrusted - a user javascript adventure game
 <details><summary>  
-    
-## 01-cellBlockA
+    01-cellBlockA
   </summary>
 
 ### Hint 1
@@ -33,12 +32,9 @@ Solutions and hints for Untrusted - a user javascript adventure game
 <details>
   <summary>Click to reveal</summary>
   Delete one of the for-loops in the editable area to create a gap.
-</details>
-</details>
-
+</details></details>
 <details><summary>  
-    
-## 02-theLongWayOut
+02-theLongWayOut
   </summary>
 
 ### Hint 1
