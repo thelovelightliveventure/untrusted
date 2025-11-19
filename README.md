@@ -2,7 +2,7 @@
 Solutions and hints for Untrusted - a user javascript adventure game
 <details><summary>  
     
-## 01-cellBlockA.js
+## 01-cellBlockA
   </summary>
 
 ### Hint 1
